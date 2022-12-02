@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Nipun Vyas </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/nipun-vyas-bb97452/">LinkedIn</a> |
+  <a href="https://github.com/nipunvyas1234">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Working with HPE Compute cloud division
+  Total experience of 16 years
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
